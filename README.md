@@ -2,8 +2,12 @@
 
 Hamza Dehaini
 
-## Expose: 
+## [Expose Pages:](https://hdehaini.github.io/Lab5_Starter/expose.html)
 
-## Explore:
+https://hdehaini.github.io/Lab5_Starter/expose.html
 
-- Added a 1 second timeout to let all the voices load
+
+
+## [Explore:](https://hdehaini.github.io/Lab5_Starter/explore.html)
+
+https://hdehaini.github.io/Lab5_Starter/explore.html
